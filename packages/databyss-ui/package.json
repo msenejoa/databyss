@@ -13,16 +13,21 @@
   },
   "main": "dist/databyss-ui.js",
   "peerDependencies": {
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
   "dependencies": {
+    "@material-ui/core": "^4.0.2",
+    "@material-ui/icons": "^4.0.1",
     "classnames": "^2.2.6",
     "color": "^3.1.0",
     "jss": "^9.8.7",
     "jss-preset-default": "^4.5.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-jss": "^8.6.1",
-    "react-svg-loader": "^2.1.0"
+    "react-svg-loader": "^2.1.0",
+    "styled-components": "^4.2.1"
   },
   "publishConfig": {
     "access": "public"
